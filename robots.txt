@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://menhaircut.github.io/sitemapx.xml
